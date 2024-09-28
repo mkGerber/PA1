@@ -1,0 +1,1 @@
+encrypt HELLO 5 8
